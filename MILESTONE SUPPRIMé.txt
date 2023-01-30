@@ -1,0 +1,1 @@
+M4	Modélisations de l'application	16.12.2022	La modélisation de la base de donnée ainsi que la structure de l'application sont réalisés par l'équipe de projet, transmis aux parties prenantes et valider par ceux-ci.												
